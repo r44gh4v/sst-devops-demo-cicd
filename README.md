@@ -1,5 +1,7 @@
 # ⚡ hey-cicd — DevSecOps Dashboard
 
+![](./github-action.png)
+
 ## 📁 Project Structure
 
 ```
